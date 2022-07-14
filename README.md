@@ -1,60 +1,72 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 258627216d64203604116da8b19be78c70b112d2
-# Getting Started with Create React App
+<h1 align="center">Biocommerce</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align=center>
 
-## Available Scripts
+<a href="https://biocommerce.netlify.app/" target="_blank"><img src="https://i.imgur.com/WQoiyYM.png" width=300px height=300px></a>
 
-In the project directory, you can run:
+## Sobre o projeto
 
-### `npm start`
+<p> Amigos da preservação e do meio ambiente, o Biocommerce nasceu a partir de um sonho: tornar comunidades e cidades mais sustentáveis. Baseado na ODS 11 da ONU, realizamos vendas de produtos sustentáveis de boa qualidade com preços acessíveis, a fim de criar um impacto ambiental positivo nas comunidades, extendendo-se para cidades e municipios. Além de sermos um e-commerce de produtos sustentáveis que sonha com cidades e comunidades melhores, nós também temos o projeto que prevê o plantio de árvores em comunidades usando parte da renda obtida na venda dos produtos, fazendo com que o nosso sonho seja realizado um pouco a cada dia. </p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## No que nos baseamos
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<p><b>Objetivo de desenvolvimento sustentável (ODS) 11: Cidades e comunidades sustentáveis.</b></p>
 
-### `npm test`
+<p>11.7 Até 2030, proporcionar o acesso universal a espaços públicos seguros, inclusivos, acessíveis e verdes, particularmente para as mulheres e crianças, pessoas idosas e pessoas com deficiência.</p>
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Funcionalidades para o usuário comum
 
-### `npm run build`
+- Realizar o cadastro do usuário;
+- Realizar o login do usuário;
+- Realizar a visualização de um produto;
+- Realizar a compra de um produto;
+- Realizar contato com nossa equipe.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Funcionalidades para o usuário administrador
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Realizar o cadastro do usuário;
+- Realizar o login do usuário;
+- Realizar a visualização de uma categoria;
+- Realizar a atualização de uma categoria;
+- Realizar a exclusão de uma categoria;
+- Realizar a visualização de um produto;
+- Realizar a atualização de um produto;
+- Realizar a exclusão de um produto.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<div align=center>
+<b><h3>Clique na imagem para verificar o nosso site:</h4></b>
+</div>
 
-### `npm run eject`
+<div align="center" style="display: inline_block"><br>
+<a href="https://biocommerce.netlify.app/" target="_blank"><img src="https://i.imgur.com/wEUA4Cs.png" width=900px height=400px></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+</div>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Nossos objetivos
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Proporcionar áreas verdes para lazer da comunidade;
+- Cooperar com a diminuição das consequências causadas pelos desmatamentos e poluição na sociedade;
+- Ética, inovação e responsabilidade social são valores fundamentais para nós, e nos tornam empaticos, fortes e dinâmicos.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Ferramentas utilizadas
 
-## Learn More
+<div style="display: inline_block"><br>
+  <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Amanda-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Amanda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Desenvolvedores
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-<<<<<<< HEAD
-=======
-=======
-# Front-End
->>>>>>> 10d32028ef96a1f794635df27a63db06bca644f4
-=======
-# Front-End
->>>>>>> 9420ab325696248f759fb3f1e2feba33a8cf05f4
->>>>>>> 258627216d64203604116da8b19be78c70b112d2
+<table>
+<tr>
+<td align="center"><a href="https://github.com/amanda-lobo"><img style="border-radius: 50%;" src="https://github.com/amanda-lobo.png" width="100px;" alt="Amanda Lobo"/><br /><sub><b>Amanda Lobo</b></sub></a><br/></td>
+<td align="center"><a href="https://github.com/brunacr"><img style="border-radius: 50%;" src="https://github.com/brunacr.png" width="100px;" alt="Bruna Cristina"/><br /><sub><b>Bruna Cristina</b></sub></a><br/></td> 
+<td align="center"><a href="https://github.com/ninaai517"><img style="border-radius: 50%;" src="https://github.com/ninaai517.png" width="100px;" alt="Carolina Aizawa"/><br /><sub><b>Carolina Aizawa</b></sub></a><br/></td>
+<td align="center"><a href="https://github.com/dogzeira"><img style="border-radius: 50%;" src="https://github.com/dogzeira.png" width="100px;" alt="Douglas Danilo"/><br /><sub><b>Douglas Danilo</b></sub></a><br/></td> 
+<td align="center"><a href="https://github.com/mweira"><img style="border-radius: 50%;" src="https://github.com/mweira.png" width="100px;" alt="João Pedro"/><br /><sub><b>João Pedro</b></sub></a><br/></td>
+<td align="center"><a href="https://github.com/mbohomol"><img style="border-radius: 50%;" src="https://github.com/mbohomol.png" width="100px;" alt="Milene Bohomol"/><br /><sub><b>Milene Bohomol</b></sub></a><br/></td>
+<td align="center"><a href="https://github.com/ThalmaiCorreia"><img style="border-radius: 50%;" src="https://github.com/ThalmaiCorreia.png" width="100px;" alt="Thalmai Correia"/><br /><sub><b>Thalmai Correia</b></sub></a><br/></td>
+</table>
